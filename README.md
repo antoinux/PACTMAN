@@ -1,2 +1,2 @@
 # PACTMAN
-First year project at Telecom ParisTech
+First year project at Telecom ParisTech as a noob
